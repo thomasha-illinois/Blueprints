@@ -20,7 +20,7 @@ load('blueprints')
 
 These signals are spatially correlated with the 126 blueprints for a single frequency band:
 
-c=corr(ts{1},templates);
+c=corr(ts{1},blueprints);
 
 The best-fitting sequence of blueprints (seq) is then determined:
 
