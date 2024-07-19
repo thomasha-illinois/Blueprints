@@ -1,6 +1,6 @@
 # Blueprints
 
-Title:
+This is the MATLAB code for the paper titled:
 
 Shared spatial and temporal principles govern connectome dynamics across timescales
 
