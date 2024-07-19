@@ -1,7 +1,12 @@
 # Blueprints
+
+Title:
+
 Shared spatial and temporal principles govern connectome dynamics across timescales
 
-Provided are the bandpassed source-signals from each of the 68 Desikan atlas regions for a single subject.
+Provided are the (EEG) envelopes of bandpassed source-signals for a single subject.
+
+Each signal represents the average from one 68 Desikan atlas regions.
 
 These are loaded:
 
@@ -9,7 +14,7 @@ load('ts')
 
 These data correspond to three concatenated resting state runs (10 mins each).
 
-The 126 spatial blueprints are then loaded:
+The 126 spatial blueprints are loaded:
 
 load('blueprints')
 
@@ -21,5 +26,5 @@ The best-fitting sequence of blueprints (seq) is then determined:
 
 [cseq,seq]=max(c')
 
-The variable cseq holds the timeseries of correlations for each of the individual blueprints.
+The other variable (cseq) holds the timeseries of correlations for each of the individual blueprints.
 
