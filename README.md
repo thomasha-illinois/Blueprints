@@ -8,6 +8,8 @@ Provided are the (EEG) envelopes of bandpassed source-signals for a single subje
 
 Please download data here: https://uofi.box.com/s/w0qgz4woqnm2xz0w2pen9scrwz2mfdrz
 
+or contact author directly.
+
 Each signal represents the average from one of 68 Desikan atlas regions.
 
 These are loaded:
