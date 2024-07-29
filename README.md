@@ -1,8 +1,6 @@
-# Blueprints
+# "Shared spatial and temporal principles govern connectome dynamics across timescales"
 
-This is the MATLAB code for the paper titled:
-
-"Shared spatial and temporal principles govern connectome dynamics across timescales"
+Matlab code accompanying aforementioned paper.
 
 Provided are the (EEG) envelopes of bandpassed source-signals for a single subject.
 
