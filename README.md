@@ -2,11 +2,11 @@
 
 This is the MATLAB code for the paper titled:
 
-Shared spatial and temporal principles govern connectome dynamics across timescales
+"Shared spatial and temporal principles govern connectome dynamics across timescales"
 
 Provided are the (EEG) envelopes of bandpassed source-signals for a single subject.
 
-Each signal represents the average from one 68 Desikan atlas regions.
+Each signal represents the average from one of 68 Desikan atlas regions.
 
 These are loaded:
 
@@ -18,7 +18,7 @@ The 126 spatial blueprints are loaded:
 
 load('blueprints')
 
-These signals are spatially correlated with the 126 blueprints for a single frequency band:
+These source signals are spatially correlated with the 126 blueprints for a single frequency band:
 
 c=corr(ts,blueprints);
 
