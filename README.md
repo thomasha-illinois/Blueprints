@@ -10,7 +10,7 @@ Each signal represents the average from one 68 Desikan atlas regions.
 
 These are loaded:
 
-load('ts')
+load('ts_envelopes')
 
 These data correspond to three concatenated resting state runs (10 mins each).
 
@@ -20,7 +20,7 @@ load('blueprints')
 
 These signals are spatially correlated with the 126 blueprints for a single frequency band:
 
-c=corr(ts{1},blueprints);
+c=corr(ts,blueprints);
 
 The best-fitting sequence of blueprints (seq) is then determined:
 
