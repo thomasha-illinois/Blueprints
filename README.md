@@ -6,7 +6,7 @@ Matlab code for paper titled:
 
 Provided are the (EEG) envelopes of bandpassed source-signals for a single subject.
 
-Please download here: https://uofi.box.com/s/w0qgz4woqnm2xz0w2pen9scrwz2mfdrz
+Please download data here: https://uofi.box.com/s/w0qgz4woqnm2xz0w2pen9scrwz2mfdrz
 
 Each signal represents the average from one of 68 Desikan atlas regions.
 
