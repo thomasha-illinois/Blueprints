@@ -32,3 +32,6 @@ The best-fitting sequence of blueprints (seq) is then determined:
 
 The other variable (cseq) holds the timeseries of correlations for each of the individual blueprints.
 
+Subsequently, transition probabilities, fractional occupancies, and mean dwell time of blueprints are estimated and plotted.
+
+
