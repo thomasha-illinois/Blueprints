@@ -4,7 +4,7 @@ Matlab code for paper titled:
 
 "Shared spatial and temporal principles govern connectome dynamics across timescales"
 
-Provided are the (EEG) envelopes of bandpassed source-signals for a single subject.
+This code requires (EEG) envelopes of bandpassed source-signals from a single subject.
 
 Please download data here: https://uofi.box.com/s/w0qgz4woqnm2xz0w2pen9scrwz2mfdrz
 
