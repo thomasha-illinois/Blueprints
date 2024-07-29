@@ -1,6 +1,8 @@
-# "Shared spatial and temporal principles govern connectome dynamics across timescales"
+#
 
-Matlab code accompanying aforementioned paper.
+Matlab code for paper titled:
+
+"Shared spatial and temporal principles govern connectome dynamics across timescales"
 
 Provided are the (EEG) envelopes of bandpassed source-signals for a single subject.
 
