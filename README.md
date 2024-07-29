@@ -1,3 +1,5 @@
+# Code repository
+
 Matlab code for paper titled:
 
 "Shared spatial and temporal principles govern connectome dynamics across timescales"
